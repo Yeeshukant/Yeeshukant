@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I am Yeeshukant
-#### A Final year EE undergraduate at IIT Indore interested in Electronics and Robotics. 
+#### An EE graduate from IIT Indore, India interested in Electronics and Robotics. 
 - 📫 Feel free to reach out to me
 [Email](mailto:yeeshukantsingh@gmail.com) [LinkedIn](https://www.linkedin.com/in/yeeshukant-singh-47845a200/) [Twitter](https://twitter.com/yeeshukant01)
 
